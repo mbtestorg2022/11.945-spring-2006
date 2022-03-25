@@ -38,7 +38,7 @@ Suggestion Resources
 
 [Natural Resources Defense Council: New Orleans Environmental Quality Test Results](http://www.nrdc.org/health/effects/katrinadata/contents.asp)
 
-ULI Proposal for Rebuilding New Orleans (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9 MB](http://www.bostonfed.org/commdev/c&b/2008/spring/Reardon_New_Orleans_rebuilds.pdf))
+ULI Proposal for Rebuilding New Orleans ([PDF - 2.9 MB](http://www.bostonfed.org/commdev/c&b/2008/spring/Reardon_New_Orleans_rebuilds.pdf))
 
 [LSU Katrina and Rita Clearinghouse](http://gis-geoblog.blogspot.com/2006/08/hurricane-katrina-rita-clearinghouse.html)
 

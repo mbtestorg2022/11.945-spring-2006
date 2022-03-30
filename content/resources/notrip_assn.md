@@ -7,6 +7,7 @@ description: This assignment is adapted from similar assignments developed by Su
   conditions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-945-katrina-practicum-spring-2006/fc95a169483e1bf74d120d61cf4afed8_notrip_assn.pdf
 file_type: application/pdf
+parent_uid: cab2ee9b-e0bc-7315-dbde-f065a27dcb08
 resourcetype: Document
 title: notrip_assn.pdf
 uid: fc95a169-483e-1bf7-4d12-0d61cf4afed8
